@@ -2,6 +2,8 @@ public class Problem2 {
 
     /*
     Describe your algorithm here in up to 5 sentences:
+    I have an int variable that keeps track of the number of unique array elements with different values. As soon as there is
+    an element with a value different from the previous one, that value will be assigned to the current front of the array.
      */
 
     // Do not change signature (function name, parameters and return type)
